@@ -23,7 +23,6 @@
 - **📱 Mobile Responsive** - ใช้งานได้ทั้งบน Desktop และ Mobile
 
 ### 🚀 Advanced Features
-- **🔄 Recurring Bookings** - จองซ้ำอัตโนมัติ (รายวัน/สัปดาห์/เดือน)
 - **✅ Approval Workflow** - ระบบอนุมัติการจอง
 - **🤖 Auto Approval** - อนุมัติอัตโนมัติตามกฎที่ Admin ตั้งค่า
 - **📈 Analytics Dashboard** - รายงานการใช้งานพื้นที่
