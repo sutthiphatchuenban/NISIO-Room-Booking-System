@@ -58,8 +58,8 @@
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/nisio/room-booking-system.git
-cd room-booking-system
+git clone https://github.com/sutthiphatchuenban/NISIO-Room-Booking-System.git
+cd NISIO-Room-Booking-System
 
 # 2. Install dependencies
 npm install
@@ -198,9 +198,8 @@ This project is licensed under the [MIT License](LICENSE) - ใช้งาน�
 
 ## 📞 Contact
 
-- 🐛 [Issue Tracker](https://github.com/nisio/room-booking-system/issues)
-- 💬 [Discussions](https://github.com/nisio/room-booking-system/discussions)
-- 🌐 Website: [https://nisio.dev](https://nisio.dev)
+- 🐛 [Issue Tracker](https://github.com/sutthiphatchuenban/NISIO-Room-Booking-System/issues)
+- 💬 [Discussions](https://github.com/sutthiphatchuenban/NISIO-Room-Booking-System/discussions)
 
 ---
 
