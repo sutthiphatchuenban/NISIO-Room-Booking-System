@@ -26,7 +26,6 @@
 - **🔄 Recurring Bookings** - จองซ้ำอัตโนมัติ (รายวัน/สัปดาห์/เดือน)
 - **✅ Approval Workflow** - ระบบอนุมัติการจอง
 - **🤖 Auto Approval** - อนุมัติอัตโนมัติตามกฎที่ Admin ตั้งค่า
-- **📷 QR Code Check-in** - เช็คอินด้วย QR Code
 - **📈 Analytics Dashboard** - รายงานการใช้งานพื้นที่
 - **🎨 Multi-tenant** - รองรับหลายองค์กรในระบบเดียว
 
