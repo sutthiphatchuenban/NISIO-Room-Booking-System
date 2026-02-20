@@ -33,13 +33,13 @@
 ## 🖼️ Screenshots
 
 <p align="center">
-  <img src="docs/screenshots/dashboard.png" alt="Dashboard" width="800"/>
+  <img src="https://res.cloudinary.com/dmrokqvnj/image/upload/v1771604455/portfolio/em0ofn93e8qtkergprbz.png" alt="Dashboard" width="800"/>
   <br/>
   <em>Dashboard - ภาพรวมการใช้งาน</em>
 </p>
 
 <p align="center">
-  <img src="docs/screenshots/calendar.png" alt="Calendar" width="800"/>
+  <img src="https://res.cloudinary.com/dmrokqvnj/image/upload/v1771604375/portfolio/bzvvzpgi6eu6gcklnieh.png" alt="Calendar" width="800"/>
   <br/>
   <em>Calendar View - ดูตารางการจอง</em>
 </p>
