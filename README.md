@@ -181,26 +181,6 @@ git push origin feature/your-feature
 
 ---
 
-## 🗺️ Roadmap
-
-- [x] User authentication
-- [x] Room booking
-- [x] Calendar views
-
-### Phase 2: Enhancement 🚧
-- [ ] Recurring bookings
-- [ ] Approval workflow
-- [ ] QR Code check-in
-- [ ] Analytics dashboard
-
-### Phase 3: Advanced 📅
-- [ ] Mobile app
-- [ ] External calendar sync
-- [ ] AI recommendations
-- [ ] API integrations
-
----
-
 ## 📝 License
 
 This project is licensed under the [MIT License](LICENSE) - ใช้งานได้ฟรี แม้ในเชิงพาณิชย์
