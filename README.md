@@ -9,7 +9,7 @@
 [![Drizzle](https://img.shields.io/badge/Drizzle-ORM-green)](https://orm.drizzle.team/)
 
 <p align="center">
-  <img src="public/nisio-logo.svg" alt="NISIO Logo" width="200"/>
+  <img src="https://scontent.fbkk8-4.fna.fbcdn.net/v/t39.30808-6/628052128_879927978366436_8958633864404449181_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=1g49GxC3zPkQ7kNvwFf7XRL&_nc_oc=AdkuHbkXKcCVbQZgSD4F1SLY57VaWN4lGU5Psbdm0_0XU9xJPyBL62rAlpafm9Zeser6feKBH-rjUVJpMF-I0NJ9&_nc_zt=23&_nc_ht=scontent.fbkk8-4.fna&_nc_gid=MAE0UCst9q2Pt05SY5__1g&oh=00_AfskL6QXDAIzo1cz5rM6w8MH2oaZeT7IK2HcZLxYQ6NpFw&oe=699E50C4" alt="NISIO Logo" width="200"/>
 </p>
 
 ---
