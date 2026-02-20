@@ -234,10 +234,6 @@ export default function LandingPage() {
                         <CheckCircle className="h-4 w-4 text-[#00d9a5]" />
                         ระบบตรวจสอบความขัดแย้งอัตโนมัติ
                       </div>
-                      <div className="bg-slate-800/50 rounded-lg px-4 py-3 text-slate-300 text-sm flex items-center gap-2">
-                        <CheckCircle className="h-4 w-4 text-[#00d9a5]" />
-                        แจ้งเตือนผ่าน Email
-                      </div>
                     </div>
                     <Link href="/register" className="inline-flex items-center gap-1 text-[#00d9a5] hover:text-[#00f5b8] mt-6 text-sm font-medium">
                       ลองใช้งาน <span className="text-xs">↗</span>
